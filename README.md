@@ -21,7 +21,7 @@ This application uses the reliable [OpenWeather API](https://openweathermap.org/
 By default, the app displays the weather data for Kolkata.
 
 ## Live Demo 
-Here --> [Weather App](https://suvadip-sana.github.io/new_weather_app/)
+Here --> [Weather App](https://github.com/Khatri01rahul07/Weather-Application)
 
 ## Future Enhancements
 
@@ -47,8 +47,8 @@ Here --> [Weather App](https://suvadip-sana.github.io/new_weather_app/)
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-1. Linkd In - [Suvadip Sana](https://www.linkedin.com/in/suvadip-sana-b07a14243/)
-2. Mail me - suvadipsana602@gmail.com
+1. Linkd In - [Rahul Kumar](https://www.linkedin.com/in/rahul-kumar-200b28241/)
+2. Mail me - rahul15012003@gmail.com
 
 ## Acknowledgements
 [OpenWeather API](https://openweathermap.org/api)
