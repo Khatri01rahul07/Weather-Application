@@ -17,7 +17,7 @@ Welcome to the Weather Application project! This application provides current we
 This application uses the reliable [OpenWeather API](https://openweathermap.org/api) to provide accurate and real-time weather data.
 
 ## live Demo
-[Weather Application](http://127.0.0.1:5500/weather_app_2.O-main/index.html)
+[Weather Application](https://khatri01rahul07.github.io/Weather-Application/)
 
 ## Default Location
 
